@@ -1,1 +1,1 @@
-# Self Organising Mapa
+# Self Organising Maps Examples
